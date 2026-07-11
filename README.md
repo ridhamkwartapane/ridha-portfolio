@@ -25,20 +25,20 @@ This project is my first portfolio website to showcase my learning journey in so
 - Project showcase
 - Contact section
 
-<<<<<<< HEAD
 ## 📸 Preview
 
 Coming soon...
 
-=======
->>>>>>> 1fef832 (Add project documentation)
+
+(Add project documentation)
+
 ## 👨‍💻 Author
 
 Ridha Wartapane
 
 GitHub:
-<<<<<<< HEAD
+
 https://github.com/ridhamkwartapane
-=======
+
 https://github.com/ridhamkwartapane
->>>>>>> 1fef832 (Add project documentation)
+(Add project documentation)
